@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-display_url: 
+display_url: 9999
 
 publish_mode: editorial_workflow
 media_folder: "source/assets/images/uploads"
