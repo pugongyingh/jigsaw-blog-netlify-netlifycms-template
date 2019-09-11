@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'ww2.hr9.top/',
+    'baseUrl' => '//',
     'production' => true,
 ];
