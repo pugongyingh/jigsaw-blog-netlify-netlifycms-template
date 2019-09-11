@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://jigsaw-blog-netlify-netlifycms-template.netlify.com',
+    'baseUrl' => 'ww2.hr9.top/',
     'production' => true,
 ];
